@@ -9,3 +9,5 @@ run_analysis.R does the following tasks
  - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 After run_analysis.R finishes, "TidyData.txt" is created. This contains the average of each variable for each activity and each subject.
+
+CodeBook.md contains the code book for the project.
